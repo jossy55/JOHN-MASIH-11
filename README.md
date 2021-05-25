@@ -4,11 +4,7 @@
 **jossy55/jossy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
- # Profile information
-    name: John Masih
-    tagline: Software Trainee at AWS/Restart 
--
-
+ 
 - education:
     - Course : AWS/Restart
       Course Provider: TechTalent 
